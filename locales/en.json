@@ -1,0 +1,41 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "sectors": "Our Sectors",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "COMING SOON",
+    "description": "Our new portal is under construction to provide simple and immediate access to all our legal and tax services. Coming soon!"
+  },
+  "studios": {
+    "title": "Our Professional Offices in Padua",
+    "lenzi": {
+      "name": "Atty. Maximiliano Lenzi",
+      "description": "Law Firm for Legal Consultation and Assistance to Businesses"
+    },
+    "maretto": {
+      "name": "Dr. Andrea Maretto",
+      "description": "Accountants and Tax Experts for Fiscal and Corporate Consulting"
+    },
+    "cecolin": {
+      "name": "Dr. Alberto Cecolin",
+      "description": "Accountant for Fiscal and Corporate Consulting"
+    },
+    "address": "Address"
+  },
+  "footer": {
+    "tagline": "Professional accounting services for your business",
+    "contact": "Contact",
+    "links": "Quick Links",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "Ca' Bragadin Accountants Firm",
+    "rights": "All rights reserved"
+  }
+
+}

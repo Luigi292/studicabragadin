@@ -1,0 +1,40 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "sectors": "I Nostri Settori",
+    "contact": "Contatti"
+  },
+  "hero": {
+    "title": "SITO IN ARRIVO",
+    "description": "Il nostro nuovo portale è in fase di realizzazione per garantire un accesso semplice e immediato a tutti i nostri servizi legali e fiscali. A presto!"
+  },
+  "studios": {
+    "title": "I Nostri Studi Professionali a Padova",
+    "lenzi": {
+      "name": "Avv. Maximiliano Lenzi",
+      "description": "Studio Legale Consulenza ed Assistenza Legale alle imprese"
+    },
+    "maretto": {
+      "name": "Dott. Andrea Maretto",
+      "description": "Studio Commercialisti ed Esperti Contabili per Consulenza Fiscale e Societaria"
+    },
+    "cecolin": {
+      "name": "Dott. Alberto Cecolin",
+      "description": "Studio Commercialista per Consulenza Fiscale e Societaria"
+    },
+    "address": "Indirizzo"
+  },
+  "footer": {
+    "tagline": "Servizi contabili professionali per la tua azienda",
+    "contact": "Contatti",
+    "links": "Link rapidi",
+    "legal": "Legale",
+    "privacy": "Privacy Policy",
+    "terms": "Termini di servizio",
+    "cookies": "Cookie Policy",
+    "copyright": "Ca' Bragadin Accountants Firm",
+    "rights": "Tutti i diritti riservati"
+  }
+}
